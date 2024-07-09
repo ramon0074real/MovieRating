@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">MovieRating</string>
+	<string name="Director">Director</string>
+	<string name="Duration">Duration</string>
+	<string name="Movie_name">Movie Name</string>
+	<string name="Save">Save</string>
+	<string name="Starring">Starring</string>
+	<string name="Write_Review">Write review here</string>
+	<string name="Year">year</string>
+</resources>
